@@ -7,10 +7,11 @@
             "name": "Win32",
             "includePath": [
                 "C:/Users/userer/.platformio/lib/M5StickC_ID6246/src",
+                "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                 "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                 "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
-                "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                "C:/Users/userer/.platformio/lib/LoRa_ID1167/src",
                 "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",
@@ -100,10 +101,11 @@
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
                     "C:/Users/userer/.platformio/lib/M5StickC_ID6246/src",
+                    "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                    "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
                     "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src",
                     "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/FS/src",
-                    "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src",
-                    "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src",
+                    "C:/Users/userer/.platformio/lib/LoRa_ID1167/src",
                     "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "C:/Users/userer/.platformio/packages/framework-arduinoespressif32/libraries/AzureIoT/src",
@@ -191,7 +193,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=40303",
+                "PLATFORMIO=40304",
                 "ARDUINO_M5Stick_C",
                 "ESP32",
                 "ESP_PLATFORM",
